@@ -1,0 +1,37 @@
+/home/andrew-holmes/CS478
+    PID TTY          TIME CMD
+   2740 pts/0    00:00:00 bash
+   2764 pts/0    00:00:00 ps
+    1  man
+    2  man man
+    3  ls
+    4  cd Desktop
+    5  ls
+    6  cd ~
+    7  whoami
+    8  mkdir Labs
+    9  ls
+   10  cd Lavs
+   11  cd Labs
+   12  pwd
+   13  mkdir Test1
+   14  cd Test1
+   15  pwd > file1
+   16  cat
+   17  cat file1
+   18  ps
+   19  ps > file2
+   20  cat file2
+   21  man ls
+   22  history >> file2
+   23  cat file2
+   24  cat file1 file2 > Test1
+   25  cat Test1
+   26  ls
+   27  mkdir CS478
+   28  cd CS478
+   29  pwd > file1
+   30  cat file1
+   31  ps > file2
+   32  cat file2
+   33  history >> file2
